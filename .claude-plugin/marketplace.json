@@ -2,7 +2,7 @@
   "name": "compound-writing-sansamcl",
   "owner": {
     "name": "Every",
-    "url": "https://github.com/sansamcl"
+    "url": "https://github.com/compound-writing-smcl"
   },
   "metadata": {
     "description": "A writing toolbox for developing, drafting, and revising work using your voice, style, and optional audience context.",
@@ -10,7 +10,7 @@
   },
   "plugins": [
     {
-      "name": "compound-writing-sansamcl",
+      "name": "compound-writing-smcl",
       "description": "A writing toolbox for developing, drafting, and revising work using your voice, style, and optional audience context.",
       "version": "2.4.1",
       "author": {

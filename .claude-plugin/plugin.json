@@ -1,10 +1,10 @@
 {
-  "name": "compound-writing",
+  "name": "compound-writing-smcl",
   "version": "2.4.1",
   "description": "A writing toolbox for developing, drafting, and revising work using your voice, style, and optional audience context.",
   "author": {
     "name": "Every",
-    "email": "katie@every.to"
+    "email": ""
   },
   "keywords": [
     "writing",
@@ -17,6 +17,6 @@
     "workflow",
     "audience"
   ],
-  "repository": "https://github.com/EveryInc/compound-writing",
+  "repository": "https://github.com/sansamcl/compound-writing",
   "license": "MIT"
 }

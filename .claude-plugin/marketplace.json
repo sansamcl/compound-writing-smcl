@@ -6,13 +6,13 @@
   },
   "metadata": {
     "description": "A writing toolbox for developing, drafting, and revising work using your voice, style, and optional audience context.",
-    "version": "2.4.1"
+    "version": "2.4.2"
   },
   "plugins": [
     {
       "name": "compound-writing-smcl",
       "description": "A writing toolbox for developing, drafting, and revising work using your voice, style, and optional audience context.",
-      "version": "2.4.1",
+      "version": "2.4.2",
       "author": {
         "name": "Every",
         "email": ""
